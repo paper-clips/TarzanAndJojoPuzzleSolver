@@ -23,17 +23,17 @@ Picture of the diagram:
 
 ![Jojo and Tarzan maze](https://github.com/paper-clips/TarzanAndJojoPuzzleSolver/blob/main/puzzleImage.jpg?raw=true)
 
-CHANGE INPUT FILE NAME:
+CHANGE INPUT FILE NAME: <br/>
 If necessary, in the main function, you can change the INFILE(“input.txt”) to the desired input file name.
 
-CHANGE MAKEFILE BOOST ENVIRONMENT
+CHANGE MAKEFILE BOOST ENVIRONMENT:  <br/>
 In the Make file, change the BOOST_HOME to where you installed the boost library. 
 I had it installed in my Program Files and the Boost library I used was version 1.70.
 
-COMPILE:
+COMPILE:  <br/>
 To compile the makefile, I have mingw and used the command “mingw32-make” in the terminal to compile it. 
 You should be able to compile the makefile like normally, by “mingw32-make” or “make”.
 
-RUN CODE:
+RUN CODE:  <br/>
 After running the makefile and compiling the code, type “.\puzzleSolver” in the terminal to run the code. 
 Once you see “Reading input…” in the terminal, the code will soon write the output to the output file. 
