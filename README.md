@@ -4,19 +4,19 @@ Program that can read in and solve Tarzan and Jojo mazes.
 The Tarzan and Jojo maze problem, from “MAD MAZES: Intriguing Mind Twisters for Puzzle Buffs, Game Nuts and Other Smart People” by Robert Abbott", 
 is based on the puzzle description below:
 
-  Tarzan was spending a peaceful day in the jungle when his friend Jojo the chimpanzee
-  began taunting him. “You can’t catch me, ape-man,” shouted Jojo. Tarzan, always one
-  to enjoy a good chase, began swinging after him, only to find that Jojo had tangled up
-  all of the hanging tree vines. Therefore, as Tarzan swings through the jungle, he can
-  only move in the direction of the arrow in the square at the beginning of each swing.
-  And because of the length of the vines, each swing must carry him exactly three or four
-  squares.
-  Tarzan begins on the square at the top. From there he can travel three squares to A
-  or go four squares to B. Suppose he goes to square B. On the next turn he can only go
-  three squares (from B it is impossible to travel four squares). From square C he can go
-  three squares to D or four squares to E.
-  Jojo has hidden in the square at the bottom of the maze of vines. How can Tarzan get
-  to that square? (Note that only one square, the one marked F, will enable Tarzan to
+  Tarzan was spending a peaceful day in the jungle when his friend Jojo the chimpanzee <br/>
+  began taunting him. “You can’t catch me, ape-man,” shouted Jojo. Tarzan, always one <br/>
+  to enjoy a good chase, began swinging after him, only to find that Jojo had tangled up <br/>
+  all of the hanging tree vines. Therefore, as Tarzan swings through the jungle, he can <br/>
+  only move in the direction of the arrow in the square at the beginning of each swing. <br/>
+  And because of the length of the vines, each swing must carry him exactly three or four <br/>
+  squares. <br/>
+  Tarzan begins on the square at the top. From there he can travel three squares to A <br/>
+  or go four squares to B. Suppose he goes to square B. On the next turn he can only go <br/>
+  three squares (from B it is impossible to travel four squares). From square C he can go <br/>
+  three squares to D or four squares to E. <br/>
+  Jojo has hidden in the square at the bottom of the maze of vines. How can Tarzan get <br/>
+  to that square? (Note that only one square, the one marked F, will enable Tarzan to <br/>
   swing onto Jojo’s square.
 
 Picture of the diagram:
