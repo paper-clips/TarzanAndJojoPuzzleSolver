@@ -1,4 +1,4 @@
-# TarzanAndJojoPuzzleSolver
+# Tarzan and Jojo Puzzle Solver
 Program that can read in and solve Tarzan and Jojo mazes.
 
 The Tarzan and Jojo maze problem, from “MAD MAZES: Intriguing Mind Twisters for Puzzle Buffs, Game Nuts and Other Smart People” by Robert Abbott", 
@@ -20,7 +20,7 @@ is based on the puzzle description below:
   swing onto Jojo’s square.
 
 Picture of the diagram:
-![Jojo and Tarzan puzzle](https://github.com/paper-clips/TarzanAndJojoPuzzleSolver/main/puzzleImage.jpg?raw=true)
+![Jojo and Tarzan maze](https://github.com/paper-clips/TarzanAndJojoPuzzleSolver/main/puzzleImage.jpg?raw=true)
 
 CHANGE INPUT FILE NAME:
 If necessary, in the main function, you can change the INFILE(“input.txt”) to the desired input file name.
