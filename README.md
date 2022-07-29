@@ -37,3 +37,7 @@ You should be able to compile the makefile like normally, by “mingw32-make” 
 RUN CODE:  <br/>
 After running the makefile and compiling the code, type “.\puzzleSolver” in the terminal to run the code. 
 Once you see “Reading input…” in the terminal, the code will soon write the output to the output file. 
+
+TRY THE PUZZLE SOLVER: <br/>
+In the INFILE("input.txt") part of code, replace "input.txt" with tarzan.txt, small.txt, or large.txt to solve the mazes.
+You can even make your own maze and test the maze solver.
