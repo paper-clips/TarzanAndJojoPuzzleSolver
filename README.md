@@ -20,7 +20,7 @@ is based on the puzzle description below:
   swing onto Jojo’s square.
 
 Picture of the diagram:
-![alt text](https://github.com/paper-clips/TarzanAndJojoPuzzleSolver/blob/puzzleImage.jpg?raw=true)
+![Jojo and Tarzan puzzle](https://github.com/paper-clips/TarzanAndJojoPuzzleSolver/puzzleImage.jpg?raw=true)
 
 CHANGE INPUT FILE NAME:
 If necessary, in the main function, you can change the INFILE(“input.txt”) to the desired input file name.
