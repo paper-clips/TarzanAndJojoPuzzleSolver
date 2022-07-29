@@ -20,6 +20,7 @@ is based on the puzzle description below:
   swing onto Jojo’s square.
 
 Picture of the diagram:
+
 ![Jojo and Tarzan maze](https://github.com/paper-clips/TarzanAndJojoPuzzleSolver/blob/main/puzzleImage.jpg?raw=true)
 
 CHANGE INPUT FILE NAME:
