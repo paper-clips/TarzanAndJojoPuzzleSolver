@@ -41,3 +41,14 @@ Once you see “Reading input…” in the terminal, the code will soon write th
 TRY THE PUZZLE SOLVER: <br/>
 In the INFILE("input.txt") part of code, replace "input.txt" with tarzan.txt, small.txt, or large.txt to solve the mazes.
 You can even make your own maze and test the maze solver.
+
+EXPLANATION OF INPUT FILES: <br/>
+The first line represents the number of rows and columns.
+The next line represents the location of Tarzan's starting location.
+The other lines represent the directional information for each vine in the maze. <br/>
+N = North <br/>
+S = South <br/>
+E = East <br/>
+W = West <br/>
+X = Location with no vine <br/>
+J = Location of Jojo
