@@ -21,7 +21,7 @@ is based on the puzzle description below:
 
 ### Picture of the diagram:
 
-![Jojo and Tarzan maze](https://github.com/paper-clips/TarzanAndJojoPuzzleSolver/blob/main/puzzleImage.jpg?raw=true)
+![Jojo and Tarzan maze](puzzleImage.jpg)
 
 ### CHANGE INPUT FILE NAME: <br/>
 If necessary, in the main function, you can change the ``` INFILE(“input.txt”) ``` to the desired input file name.
